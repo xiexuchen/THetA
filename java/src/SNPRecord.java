@@ -36,6 +36,7 @@ public class SNPRecord implements Comparable<SNPRecord>
 		mutCount = 0;
 		allCounts = new int[4];
 		total = 0;
+		// test and then delete all of it
 		
 		for (int i = 0; i < 4; i++)
 		{
